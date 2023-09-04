@@ -20,4 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 ![6](https://github.com/BhargavsinhBarad/media_boster/assets/118417960/54712c85-28f8-4609-b973-8996ba9e817b)
 ![7](https://github.com/BhargavsinhBarad/media_boster/assets/118417960/07fa73b5-a7fd-481b-94ce-3caf68eff986)
 ![7](https://github.com/BhargavsinhBarad/media_boster/assets/118417960/7877b6d2-61ab-48ec-b6ac-5bd22d271375)
+![Screenshot_20230904_103806](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/f10275a4-b3ee-4ea3-b348-f71d341804f2)
+![Screenshot_20230904_103848](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/7fec7e60-4872-4007-8362-bffd8e07bf83)
 
