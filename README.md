@@ -1,4 +1,4 @@
-![7](https://github.com/BhargavsinhBarad/media_boster/assets/118417960/fb927a6c-3da1-4e41-9d50-e2634ff765f4)# media_boster
+# media_boster
 
 A new Flutter project.
 
@@ -15,11 +15,16 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![1](https://github.com/BhargavsinhBarad/media_boster/assets/118417960/cf334d5e-d19d-4363-ae4b-efa90694d637)
-![5](https://github.com/BhargavsinhBarad/media_boster/assets/118417960/4a9ffad6-0b7c-4586-94be-e926f91019ac)
-![6](https://github.com/BhargavsinhBarad/media_boster/assets/118417960/54712c85-28f8-4609-b973-8996ba9e817b)
-![7](https://github.com/BhargavsinhBarad/media_boster/assets/118417960/07fa73b5-a7fd-481b-94ce-3caf68eff986)
-![7](https://github.com/BhargavsinhBarad/media_boster/assets/118417960/7877b6d2-61ab-48ec-b6ac-5bd22d271375)
-![Screenshot_20230904_103806](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/f10275a4-b3ee-4ea3-b348-f71d341804f2)
-![Screenshot_20230904_103848](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/7fec7e60-4872-4007-8362-bffd8e07bf83)
+![Screenshot_20231129-193225](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/e4025748-6295-43b8-b474-884249b931f2)![Screenshot_20231129-194832](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/8c6e0894-cd94-4d79-a56c-a2b442ef0ced)
+![Screenshot_20231129-194835](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/ade4043b-5d41-4297-8732-971e0e4c798a)
+![Screenshot_20231129-194839](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/21436890-9a1b-4749-a32b-ace1e46f342a)
+![Screenshot_20231129-194935_Files](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/f386eb15-52ec-4f8b-9706-e1ccb539011d)
+![Screenshot_20231129-194945](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/65a111d0-ea20-4741-ba91-8b793d074256)
+
+![Screenshot_20231129-194914](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/2fa57ab7-37e3-4405-b42e-a239eb6f6b5e)
+![Screenshot_20231129-195504](https://github.com/BhargavsinhBarad/media_boster_/assets/118417960/bbfbaf09-ffb1-42c0-b4e5-f35182d1171a)
+
+
+
+
 
